@@ -4,7 +4,7 @@
         "teams": [],
         "visibleAreaPolygon": []
     },
-    "frame_16": {
+    "frame_25": {
         "detections": [
             {
                 "id": 13,
@@ -3751,7 +3751,7 @@
             ]
         ]
     },
-    "frame_32": {
+    "frame_50": {
         "detections": [
             {
                 "id": 13,
@@ -7500,7 +7500,7 @@
             ]
         ]
     },
-    "frame_48": {
+    "frame_75": {
         "detections": [
             {
                 "id": 13,
@@ -11355,7 +11355,7 @@
             ]
         ]
     },
-    "frame_64": {
+    "frame_100": {
         "detections": [
             {
                 "id": 13,
@@ -15242,7 +15242,7 @@
             ]
         ]
     },
-    "frame_80": {
+    "frame_125": {
         "detections": [
             {
                 "id": 13,
@@ -18953,7 +18953,7 @@
             ]
         ]
     },
-    "frame_96": {
+    "frame_150": {
         "detections": [
             {
                 "id": 13,
@@ -22552,7 +22552,7 @@
             ]
         ]
     },
-    "frame_112": {
+    "frame_175": {
         "detections": [
             {
                 "id": 13,
@@ -26023,7 +26023,7 @@
             ]
         ]
     },
-    "frame_128": {
+    "frame_200": {
         "detections": [
             {
                 "id": 13,
@@ -29420,7 +29420,7 @@
             ]
         ]
     },
-    "frame_144": {
+    "frame_225": {
         "detections": [
             {
                 "id": 13,
@@ -32843,7 +32843,7 @@
             ]
         ]
     },
-    "frame_160": {
+    "frame_250": {
         "detections": [
             {
                 "id": 13,
